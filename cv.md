@@ -2,6 +2,7 @@
 
 ## Contacts:
 **tel** +375 29 140 67 58 **e-mail** anna.kiniova@gmail.com
+**telegram** anna_kiniova
 
 ## Motivation part:
 I am an experienced *engineer* - developer of project documentation for low-current systems - nearly 10 years. This work is challenging and requires constant studying and that's the best part of it. 
@@ -13,18 +14,21 @@ As it is said:
 >	With its feet cuts through the path it follows.
 
 ## Programming skills: 
-**Turbo Pascal, Delphi 7**
-I'm a newcomer in front-end development and best parts of code are just to be developed.
+**Turbo Pascal, Delphi 7, JavaScript, HTML 5, CSS 3**
+
+## Code examples:
+Please, find exaples of code at https://github.com/AnnaKiniova
 
 ## Education:
 1. __*BSUIR*__ faculty of telecommunication systems - 2005- 2010
 1. __*MSLU*__ - 2010 - 2012
 1. Brocade, Ixia, Ruckus sales expert and technical support engineer courses - 2015
 1. Codeacademy HTML CSS - 2019
+1. RS School 2019Q1 - certificate
 
 ## Level of English: 
 **B2**
 * __*Cambridge FCE*__ - grade B (corresponds to B2) - 2010
 * Graduated from __*MSLU*__ retraining deparment in 2012 
-* Participatede in __*"Work and Travel"*__ program in 2008
-* Took part in project translation for the EU 
+* Participated in __*"Work and Travel"*__ program in 2008
+* Took part in projects translations for the EU in 2010-2019
