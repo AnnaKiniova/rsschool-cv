@@ -136,3 +136,11 @@ td {
 .highlight-bold {
     font-weight: bold;
 }
+
+footer {
+    padding: 30px;
+    margin-top: 30px;
+    border-radius: 0 0 10px 10px;
+
+    background-color: #b2ece0;
+}
