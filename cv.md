@@ -1,4 +1,5 @@
 # Anna Kiniova - CV
+![Anna's photo](/./images/Anna_photo.jpg)
 
 ## Contacts:
 * **tel** +375 29 140 67 58 
