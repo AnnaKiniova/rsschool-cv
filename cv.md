@@ -1,8 +1,10 @@
 # Anna Kiniova - CV
 
 ## Contacts:
-**tel** +375 29 140 67 58 **e-mail** anna.kiniova@gmail.com
-**telegram** anna_kiniova
+* **tel** +375 29 140 67 58 
+* **e-mail** anna.kiniova@gmail.com
+* **telegram** anna_kiniova
+* **[GitHub](https://github.com/AnnaKiniova)**
 
 ## Motivation part:
 I am an experienced *engineer* - developer of project documentation for low-current systems - nearly 10 years. This work is challenging and requires constant studying and that's the best part of it. 
