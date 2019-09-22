@@ -41,6 +41,6 @@ Year | Education
 ## Level of English: 
 **B2**
 * __*Cambridge FCE*__ - grade B (corresponds to B2) - 2010
-* Graduated from __*MSLU*__ retraining deparment in 2012 
+* Graduated from __*MSLU*__ retraining faculty in 2012 
 * Participated in __*"Work and Travel"*__ program in 2008
 * Took part in projects translations for the EU in 2010-2019
